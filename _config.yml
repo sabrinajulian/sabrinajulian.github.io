@@ -51,5 +51,3 @@ plugins:
 
 paginate: 8
 paginate_path: "/blog/page:num/"
-  
-theme: jekyll-theme-cayman
