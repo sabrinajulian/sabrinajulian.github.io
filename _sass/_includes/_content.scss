@@ -7,6 +7,7 @@
 .single {
 	margin-top: 0;
 	padding: 40px 0;
+	text-align: justify;
 
 	@include mq(tabletp) {
 		padding: 60px 0;
@@ -34,15 +35,15 @@
 		}
 
 		@include mq(tabletl) {
-			max-width: 75%;
+			max-width: 80%;
 		}
 
 		@include mq(laptop) {
-			max-width: 70%;
+			max-width: 90%;
 		}
 
 		@include mq(desktop) {
-			max-width: 65%;
+			max-width: 95%;
 		}
 	}
 
