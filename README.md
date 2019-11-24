@@ -6,9 +6,13 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 ## Getting started
 
-Copy the theme files to your website directory.
+To run the theme locally navigate to the theme directory (no spaces are allowed in the directory) in your terminal and run
+- `gem install bundler:1.17.3`
+- `gem install jekyll`
+- `sudo dnf install -y gcc ruby ruby-devel zlib-devel @development-tools rpm-build redhat-rpm-config`
+- `bundle install --path vendor/bundle`
 
-To run the theme locally, navigate to the theme directory in your terminal and run `bundle install` to install the theme's dependencies. Then run `jekyll serve` to start the Jekyll server.
+Then run `bundle exec jekyll serve` to start the Jekyll server.
 
 ---
 
