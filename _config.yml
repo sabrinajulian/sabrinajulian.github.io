@@ -1,5 +1,8 @@
 site: Sabrinas und Julians Blog
 
+url: https://sabrinajulian.github.io/
+baseurl: 
+
 collections:
   pages:
     output: true
@@ -49,5 +52,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 8
+paginate: 6
 paginate_path: "/blog/page:num/"
+  

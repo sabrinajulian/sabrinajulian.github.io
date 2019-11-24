@@ -36,9 +36,15 @@ The theme also supports markdown tables:
 
 | Item                 | Author        | Supports tables? | Price |
 |----------------------|---------------|------------------|-------|
-| Duet Jekyll Theme    | Jekyll Themes | Yes              | $39   |
-| Index Jekyll Theme   | Jekyll Themes | Yes              | $39   |
-| Journal Jekyll Theme | Jekyll Themes | Yes              | $39   |
+| Duet Jekyll Theme    | Jekyll Themes | Yes              | $49   |
+| Index Jekyll Theme   | Jekyll Themes | Yes              | $49   |
+| Journal Jekyll Theme | Jekyll Themes | Yes              | $49   |
+
+And footnotes[^1], which link to explanations[^2] at the bottom of the page[^3].
+
+[^1]: Beautiful modern, minimal theme design.
+[^2]: Powerful features to show off your work.
+[^3]: Maintained and supported by the theme developer.
 
 You can throw in some horizontal rules too:
 
