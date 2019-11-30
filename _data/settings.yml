@@ -10,13 +10,11 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Blog'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Kontakt'
       url: '/contact'
 
 grid_settings:
