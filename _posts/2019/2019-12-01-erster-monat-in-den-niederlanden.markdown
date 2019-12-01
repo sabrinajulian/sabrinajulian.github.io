@@ -8,7 +8,7 @@ excerpt: Nach über einem Jahr Pause führen wir nun hier unseren Blog fort.
 
 Nach über einem Jahr Pause führen wir nun hier unseren [Blog](https://sabrinajulian.wordpress.com/) fort.
 Nach unserer Rückkehr aus Taiwan kamen Sabrina und ich wieder in den Genuss der Alpen, österreichischer Seen und natürlich unserer Freunde & Familie.
-Doch noch während wir unserer Zeit in Asien kamen wir zu der Erkenntnis, dass wir zumindest noch einmal im fremdsprachigen Ausland leben wollten.
+Doch noch während unserer Zeit in Asien kamen wir zu der Erkenntnis, dass wir zumindest noch einmal im fremdsprachigen Ausland leben wollten.
 Dies deckte sich dann auch gut mit der Erkenntnis, dass wir in Linz nicht die erhofften beruflichen Möglichkeiten vorfanden.
 
 Nun blieb nur mehr die Frage, wohin wir ziehen wollen.
@@ -57,7 +57,7 @@ Meiner Meinung nach kommt Delfts Schönheit aber besonders gut nachts zur Geltun
 
 Zu Sabrinas Entzücken ist Delft ein Katzenparadies.
 Die in den Niederlanden spärlich verteilten Sonnenstunden werden von allen Freigängern exzessiv genutzt.
-An einem sonnigen Tag, ist es also normal, auf dem Weg zum Restaurant zumindest ein paar Katzen herumstreifen zu sehen.
+An einem sonnigen Tag ist es also normal, auf dem Weg zum Restaurant zumindest ein paar Katzen herumstreifen zu sehen.
 Wie man sieht sind sie auch nicht besonders scheu und trauen sich, interessante Sachen, wie eine Spiegelreflexkamera, sehr genau zu begutachten.
 <div class="gallery" data-columns="2">
 	<img src="/images/2019/2019-12-01/Katzen/2019-04-26_17.39.21.JPG">
