@@ -15,7 +15,25 @@ featured_image: /images/social.jpg
 
 			<div class="listing-post__header">
 				<h2 class="listing-post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-				<p class="listing-post__subtitle">{{ post.date | date_to_long_string }}</p>
+				<p class="listing-post__subtitle">
+					{% assign m = post.date | date: "%-m" %}
+						{{ post.date | date: "%-d." }}
+						{% case m %}
+						  {% when '1' %}Januar
+						  {% when '2' %}Februar
+						  {% when '3' %}März
+						  {% when '4' %}April
+						  {% when '5' %}Mai
+						  {% when '6' %}Juni
+						  {% when '7' %}Juli
+						  {% when '8' %}August
+						  {% when '9' %}September
+						  {% when '10' %}Oktober
+						  {% when '11' %}November
+						  {% when '12' %}Dezember
+						{% endcase %}
+						{{ post.date | date: "%Y" }}
+					</p>
 			</div>
 
 			{% if post.featured_image %}

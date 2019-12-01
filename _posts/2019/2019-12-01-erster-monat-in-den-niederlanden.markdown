@@ -7,11 +7,11 @@ excerpt: This page is a demo that shows everything you can do inside portfolio a
 ---
 
 
-{% leaflet_map {"zoom" : 8,               "providerBasemap": "OpenStreetMap.DE" } %}
-    {% leaflet_marker { "latitude" : 52.011736,
-                       "longitude" : 4.359208,
-                       "popupContent" : "Delft"} %}
-{% endleaflet_map %}
+<p align="center">
+<iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=4.114379882812501%2C51.60778325682619%2C4.608764648437501%2C52.36805320057393&amp;layer=mapnik&amp;marker=51.98953162190704%2C4.361572265625" style="border: 1px solid black"></iframe><br/>
+</p>
+
+
 
 
 
