@@ -21,10 +21,10 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/meqognvp'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Send Message'
+  email_subject: 'Kontaktformular Nachricht'
+  send_button_text: 'Nachricht absenden'
 
 social_settings:
   facebook_url: ''
