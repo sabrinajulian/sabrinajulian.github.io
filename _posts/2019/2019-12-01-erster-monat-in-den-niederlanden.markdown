@@ -1,13 +1,13 @@
 ---
 layout: "post"
 title: "Erster Monat in den Niederlanden"
-date: "2019-12-01 11:14"
-featured_image: '/images/demo/demo-square.jpg'
-excerpt: This page is a demo that shows everything you can do inside portfolio and blog posts. We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+date: "2019-12-01 20:00"
+featured_image: '/images/2019/2019-12-01/Nacht/2019-11-09_22.57.57.jpg'
+excerpt: Nach über einem Jahr Pause führen wir nun hier unseren Blog fort.
 ---
 
 Nach über einem Jahr Pause führen wir nun hier unseren [Blog](https://sabrinajulian.wordpress.com/) fort.
-Nach unserer Rückkkehr aus Taiwan kamen Sabrina und ich wieder in den Genuss der Alpen, österreichischer Seen und natürlich unserer Freunde & Familie.
+Nach unserer Rückkehr aus Taiwan kamen Sabrina und ich wieder in den Genuss der Alpen, österreichischer Seen und natürlich unserer Freunde & Familie.
 Doch noch während wir unserer Zeit in Taiwan, kamen wir zu der Erkenntnis, dass wir zumindest noch einmal im fremdsprachigen Ausland leben wollten.
 Dies deckte sich dann auch gut mit der Erkenntnis, dass wir in Linz nicht die erhofften beruflichen Möglichkeiten vorfanden.
 
@@ -32,11 +32,10 @@ Was es mir aber besonders antut ist die wunderbare Altstadt (klick auf die Bilde
   <img src="/images/2019/2019-12-01/Altstadt/2019-11-10_15.17.35.jpg">
 	<img src="/images/2019/2019-12-01/Altstadt/2019-11-10_15.28.37.jpg">
   <img src="/images/2019/2019-12-01/Altstadt/2019-04-26_11.13.01.jpg">
-	<img src="/images/2019/2019-12-01/Altstadt/test/2019-04-26_11.12.38.jpg">
 </div>
 
 Besonders schön sind die neue (nieuwe) und alte Kirche (oude Kerk).
-Die neue Kirche ist nicht nur sehr besichtenswert, sie kann auch bestiegen werden, was einen weitläufigen Blick über Delft ermöglicht (du kannst mit Wischbewegungen am Handy oder mit Klicks auf die Punkte am PC weitere Bilder sichtbar machen).
+Die neue Kirche ist nicht nur sehr besichtigenswert, sie kann auch bestiegen werden, was einen weitläufigen Blick über Delft ermöglicht (du kannst mit Wischbewegungen am Handy oder mit Klicks auf die Punkte am PC weitere Bilder sichtbar machen).
 <div class="gallery" data-columns="1">
   <img src="/images/2019/2019-12-01/Nieuwe-Kerk/2019-04-26_13.06.06.jpg">
   <img src="/images/2019/2019-12-01/Nieuwe-Kerk/2019-04-26_12.16.48.jpg">
@@ -44,3 +43,34 @@ Die neue Kirche ist nicht nur sehr besichtenswert, sie kann auch bestiegen werde
   <img src="/images/2019/2019-12-01/Nieuwe-Kerk/2019-04-26_12.18.15.jpg">
 	<img src="/images/2019/2019-12-01/Nieuwe-Kerk/2019-04-26_12.19.50.jpg">
 </div>
+
+Meiner Meinung nach kommt Delfts Schönheit aber besonders gut nachts zur Geltung.
+<div class="gallery" data-columns="3">
+	<img src="/images/2019/2019-12-01/Nacht/2019-11-10_17.20.13.jpg">
+  <img src="/images/2019/2019-12-01/Nacht/2019-11-02_00.16.48.jpg">
+  <img src="/images/2019/2019-12-01/Nacht/2019-11-10_17.18.06.jpg">
+  <img src="/images/2019/2019-12-01/Nacht/2019-11-09_22.57.57.jpg">
+  <img src="/images/2019/2019-12-01/Nacht/2019-11-09_23.08.20.jpg">
+	<img src="/images/2019/2019-12-01/Nacht/2019-11-10_17.23.20.jpg">
+	<img src="/images/2019/2019-12-01/Nacht/2019-11-10_17.17.20.jpg">
+</div>
+
+Zu Sabrinas Entzücken ist Delft ein Katzenparadis.
+Die in den Niederlanden spärlich verteilten Sonnenstunden werden von allen Freigängern exzessiv genutzt.
+Wie man sieht sind sie auch nicht scheu interessante Sachen seeehr genau zu begutachten.
+<div class="gallery" data-columns="2">
+	<img src="/images/2019/2019-12-01/Katzen/2019-04-26_17.39.21.JPG">
+  <img src="/images/2019/2019-12-01/Katzen/2019-11-10_15.22.57.jpg">
+  <img src="/images/2019/2019-12-01/Katzen/2019-11-10_15.35.10.jpg">
+</div>
+
+Und natürlich gibt hier, wie in jedem Land, die eine oder andere Kuriosität zu bewundern.
+Dass in die meisten Wohnzimmer freier Einblick herrscht, habe ich natürlich nicht fotografiert, dafür seht ihr die schräge Frontwand eines Hauses, einen der vielen Käsegeschäfte  und ein Leihrad, versenkt im Delfter Kanal.
+Bei einer Bootsrundfahrt wurde uns erklärt, dass jedes Jahr Räder im dreistelligen Bereich aus den Kanälen Delfts gefischt werden.
+<div class="gallery" data-columns="2">
+	<img src="/images/2019/2019-12-01/Kurioses/2019-04-26_20.23.48.jpg">
+  <img src="/images/2019/2019-12-01/Kurioses/2019-04-26_13.28.24.jpg">
+  <img src="/images/2019/2019-12-01/Kurioses/2019-11-30_11.57.29.jpg">
+</div>
+
+_verfasst von Julian_
