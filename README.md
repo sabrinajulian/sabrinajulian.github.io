@@ -6,6 +6,16 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 ## Getting started
 
+```
+ sudo podman run --rm \
+            --volume="$PWD:/srv/jekyll:Z" \
+            --publish "127.0.0.1:4000:4000" \
+            jekyll/jekyll:3.8 \
+            jekyll serve  
+```
+
+## Getting started (outdated)
+
 To run the theme locally navigate to the theme directory (no spaces are allowed in the directory) in your terminal and run
 - `sudo dnf install -y gcc g++ ruby ruby-devel zlib-devel @development-tools rpm-build redhat-rpm-config`
 - `gem install bundler:1.17.3`
